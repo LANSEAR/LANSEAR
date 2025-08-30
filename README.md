@@ -1,4 +1,21 @@
-## Hi there 👋
+### Buenas, buenas
+
+## Estudiante de Ciclo Superior DAM en IES COTARELO
+
+# Conocimientos:
+
+- Nivel Medio de Java
+- Nivel Basico de Python
+- Nivel Medio de SQL
+- Dominio general de Lenguajes de Marcado
+  - Actualmente aprendiendo GIT
+
+
+![Logo de ejemplo](https://www.campusmvp.es/recursos/post/que-es-git-ventajas-e-inconvenientes-y-por-que-deberias-aprenderlo-bien.aspx?srsltid=AfmBOorqaaihawWNVaX0y-j6VZHBFZcgwT_RyUZlITxf-1L_upUfK8De)
+
+
+
+
 
 <!--
 **LANSEAR/LANSEAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
