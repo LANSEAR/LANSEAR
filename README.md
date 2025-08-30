@@ -11,7 +11,7 @@
   - Actualmente aprendiendo GIT
 
 
-<a href="https://github.com/"><img src="https://www.hackaboss.com/blog/github-utilidad-copilot" style="height: 60%; width:60%;"/></a>
+<a href="https://github.com/"><img src="logo.jpg" style="height: 60%; width:60%;"/></a>
 
 
 
