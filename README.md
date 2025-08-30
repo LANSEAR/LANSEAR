@@ -11,7 +11,7 @@
   - Actualmente aprendiendo GIT
 
 
-<a href="https://github.com/"><img src="https://www.campusmvp.es/recursos/post/que-es-git-ventajas-e-inconvenientes-y-por-que-deberias-aprenderlo-bien.aspx?srsltid=AfmBOorqaaihawWNVaX0y-j6VZHBFZcgwT_RyUZlITxf-1L_upUfK8De" style="height: 60%; width:60%;"/></a>
+<a href="[https://github.com/](https://www.opsera.io/ecosystem/git)"><img src="https://www.campusmvp.es/recursos/post/que-es-git-ventajas-e-inconvenientes-y-por-que-deberias-aprenderlo-bien.aspx?srsltid=AfmBOorqaaihawWNVaX0y-j6VZHBFZcgwT_RyUZlITxf-1L_upUfK8De" style="height: 60%; width:60%;"/></a>
 
 
 
